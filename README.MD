@@ -1,4 +1,1 @@
 #thisismyreadme
----
-permalink: /index.html
----
